@@ -1,6 +1,6 @@
 // Create template content
 const template = document.createElement("template")
-template.innerHTML = /* html */ `
+template.innerHTML = /*html*/ `
   <link rel="stylesheet" href="/scary-mary/scary-mary.css">
   <div class="scaryDomWrapper">
     <svg class="scaryDom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 62.01 90">
